@@ -785,17 +785,21 @@
       <updated>1400517573089</updated>
       <workItem from="1400517581045" duration="15115000" />
       <workItem from="1400609015625" duration="1580000" />
-      <workItem from="1400687445443" duration="4854000" />
+      <workItem from="1400687445443" duration="4879000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit of the prep project&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Changes to be committed:&#10;#   (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/compiler.xml&#10;#&#9;new file:   .idea/copyright/profiles_settings.xml&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/libraries/Maven__junit_junit_3_8_1.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   pom.xml&#10;#&#9;new file:   prep.iml&#10;#&#9;new file:   src/main/java/rave/com/App.java&#10;#&#9;new file:   src/test/java/rave/com/AppTest.java&#10;#&#9;new file:   target/classes/rave/com/App.class&#10;#&#9;new file:   target/test-classes/rave/com/AppTest.class&#10;#&#10;# Changes not staged for commit:&#10;#   (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)&#10;#   (use &quot;git checkout -- &lt;file&gt;...&quot; to discard changes in working directory)&#10;#&#10;#&#9;modified:   .idea/workspace.xml&#10;#&#10;">
       <created>1400692327185</created>
       <updated>1400692327185</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit of the prep project&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Changes to be committed:&#10;#   (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/compiler.xml&#10;#&#9;new file:   .idea/copyright/profiles_settings.xml&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/libraries/Maven__junit_junit_3_8_1.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   pom.xml&#10;#&#9;new file:   prep.iml&#10;#&#9;new file:   src/main/java/rave/com/App.java&#10;#&#9;new file:   src/test/java/rave/com/AppTest.java&#10;#&#9;new file:   target/classes/rave/com/App.class&#10;#&#9;new file:   target/test-classes/rave/com/AppTest.class&#10;#&#10;# Changes not staged for commit:&#10;#   (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)&#10;#   (use &quot;git checkout -- &lt;file&gt;...&quot; to discard changes in working directory)&#10;#&#10;#&#9;modified:   .idea/workspace.xml&#10;#&#10;">
+      <created>1400692344126</created>
+      <updated>1400692344126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21549000" />
+    <option name="totallyTimeSpent" value="21574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
