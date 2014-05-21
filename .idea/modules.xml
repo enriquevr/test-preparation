@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/prep.iml" filepath="$PROJECT_DIR$/prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prep-ruby/prep-ruby.iml" filepath="$PROJECT_DIR$/prep-ruby/prep-ruby.iml" />
     </modules>
   </component>
 </project>
