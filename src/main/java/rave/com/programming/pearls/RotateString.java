@@ -3,9 +3,9 @@ package rave.com.programming.pearls;
 
 /**
  *
- * Rotates a string of m elements by n elements using with time complexity O(n) and additional space of m - 2*n
+ * Rotates a string of m elements by n elements with time complexity O(n) and additional space of m - 2*n
  * */
-public class RotateString {
+public final class RotateString {
 
   public static void rotate(char[] input, int n) {
 
